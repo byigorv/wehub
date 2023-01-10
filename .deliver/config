@@ -1,0 +1,11 @@
+APP="wehub"
+
+BUILD_HOST="62.113.117.185"
+BUILD_USER="root"
+BUILD_AT="/home/app/wehub/edeliver_build"
+
+RELEASE_STORE=root@62.113.117.185:/home/app/wehub/edeliver_release_store/
+
+PRODUCTION_HOSTS="62.113.117.185"
+PRODUCTION_USER="root"
+DELIVER_TO="/home/wehub"
